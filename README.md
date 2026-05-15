@@ -176,9 +176,3 @@ The same architecture can later be extended for:
 
 ---
 
-# License
-
-Add your preferred license here.
-
-```
-```
